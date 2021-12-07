@@ -28,7 +28,7 @@ Time series data is data that is recorded over consistent intervals of time.
 - **Stock time series data** means measuring attributes at a certain point in time, like a static snapshot of the information as it was.
 - **Flow time series data** means measuring the activity of the attributes over a certain period, which is generally part of the total whole and makes up a portion of the results.
 
-### Cross-sectional data 
+### Cross-sectional data
 
 Cross-sectional data consists of several variables recorded at the same time.
 
@@ -54,7 +54,6 @@ In time series data, variations can occur sporadically throughout the data:
 - **Forecasting** Predicts future data. This type is based on historical trends. It uses the historical data as a model - for future data, predicting scenarios that could happen along future plot points.
 - **Intervention analysis**: Studies how an event can change the data.
 - **Segmentation**: Splits the data into segments to show the - underlying properties of the source information.
-
 
 ## Time Series Models
 
