@@ -6,3 +6,4 @@
 ## Index
 
 - [Time Series](./TimeSeries.md)
+- [XAI and Models](./XAI-and-Models.md)
