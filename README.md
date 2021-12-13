@@ -7,6 +7,8 @@
 
 ## Index
 
+- [Possible Approaches](./Possible-Approach.md)
+
 ### Time Series
 
 - [Time Series](./TimeSeries.md)
@@ -15,3 +17,7 @@
 ### XAI
 
 - [XAI and Models](./XAI-and-Models.md)
+
+### Eli5
+
+- [Code Implementation](./eli5-sample.ipynb)
