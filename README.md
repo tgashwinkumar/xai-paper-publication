@@ -14,6 +14,10 @@
 - [Time Series](./TimeSeries.md)
 - [ARIMA Model](./ArimaModel.md)
 
+### Random Walks and White noise
+
+- [Random Walks (code)](./random-walk.py)
+
 ### XAI
 
 - [XAI and Models](./XAI-and-Models.md)
@@ -21,3 +25,8 @@
 ### Eli5
 
 - [Code Implementation](./eli5-sample.ipynb)
+
+### Time Series Testing
+
+- [Time Series Testing](./TimeSeries-Testing.md)
+- [Dickey Fuller test](./Dickey-Fuller-Test.md)
