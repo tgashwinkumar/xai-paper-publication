@@ -8,6 +8,8 @@
 ## Index
 
 - [Possible Approaches](./Possible-Approach.md)
+- [Important Links](./Important-Links.md)
+- [Datasets](./Datasets.md)
 
 ### Time Series
 
@@ -29,7 +31,7 @@
 ### Time Series Testing
 
 - [Time Series Testing](./TimeSeries-Testing.md)
-- [Dickey Fuller test](./Dickey-Fuller-Test.md)Rhubanraj Palanikumar
+- [Dickey Fuller test](./Dickey-Fuller-Test.md)
 	
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8138040/#:~:text=ML%20techniques%20have%20been%20used,19%20%5B25%2C26%5D.
 
