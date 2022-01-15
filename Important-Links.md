@@ -12,5 +12,7 @@
 
 6. [An ARIMA Model to Forecast the Spread and the Final Size of COVID-2019 Epidemic in Italy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564865)
 
-7.
+7. [Univariate Time Series Anomaly Detection Using ARIMA Model](https://www.analyticsvidhya.com/blog/2021/08/univariate-time-series-anomaly-detection-using-arima-model/)
+
+8. [Explaining Bad Forecasts in Global Time Series Models](https://www.mdpi.com/2076-3417/11/19/9243/htm)
 ____
