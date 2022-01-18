@@ -7,31 +7,31 @@
 
 ## Index
 
-- [Possible Approaches](./Possible-Approach.md)
+- [Possible Approaches](Models/Possible-Approach.md)
 - [Important Links](./Important-Links.md)
 - [Datasets](./Datasets.md)
 
 ### Time Series
 
-- [Time Series](./TimeSeries.md)
-- [ARIMA Model](./ArimaModel.md)
+- [Time Series](Models/TimeSeries.md)
+- [ARIMA Model](Models/ArimaModel.md)
 
 ### Random Walks and White noise
 
-- [Random Walks (code)](./random-walk.py)
+- [Random Walks (code)](Models/random-walk.py)
 
 ### XAI
 
-- [XAI and Models](./XAI-and-Models.md)
+- [XAI and Models](Models/XAI-and-Models.md)
 
 ### Eli5
 
-- [Code Implementation](./eli5-sample.ipynb)
+- [Code Implementation](Testing/eli5-sample.ipynb)
 
 ### Time Series Testing
 
-- [Time Series Testing](./TimeSeries-Testing.md)
-- [Dickey Fuller test](./Dickey-Fuller-Test.md)
+- [Time Series Testing](Models/TimeSeries-Testing.md)
+- [Dickey Fuller test](Models/Dickey-Fuller-Test.md)
 	
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8138040/#:~:text=ML%20techniques%20have%20been%20used,19%20%5B25%2C26%5D.
 
