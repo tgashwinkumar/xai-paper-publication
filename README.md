@@ -7,12 +7,10 @@
 
 ## Index
 
-- [Possible Approaches](Models/Possible-Approach.md)
 - [Important Links](./Important-Links.md)
 - [Datasets](./Datasets.md)
 
 ### Time Series
-
 - [Time Series](Models/TimeSeries.md)
 - [ARIMA Model](Models/ArimaModel.md)
 
