@@ -114,8 +114,7 @@ def range_tj_k(val) :
 
 
 def tn():
-    tf_df = pd.DataFrame(columns = ['T' , 'H' , 'CLE' , 'Confirmed' , 'DI' , 'GA'
-     , 'MT' , 'New Cases' , 'TJ' , 'State' , 'Date' , 'ON' , 'Rt'])
+    tf_df = pd.DataFrame()
 
     for i in range(len(t_df)) :
         a = []
@@ -133,8 +132,10 @@ def tn():
         a.append(t_df.iloc[i]['ON'])
         a.append(t_df.iloc[i]['Rt'])
         tf_df = tf_df.append([a])
-        print(a)
+        # print(a)
+    tf_df.rename(columns = {0 : 'T' , 1 : 'H' , 2 : 'CLE' , 3 : 'Confirmed' , 4 : 'DI' , 5 : 'GA'
+     , 6 : 'MT' , 7 : 'New Cases' , 8 : 'TJ' , 9 : 'State' , 10 : 'Date' , 11 : 'ON' , 12 : 'Rt'}, inplace = True)
     return tf_df
 tf_df = tn()
-
-print(set(tf_df['CLE']))
+tf_df.to_csv('Final\\tnfinal1.csv' , index = False)
+# print(set(tf_df['CLE']))
